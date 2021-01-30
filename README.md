@@ -10,4 +10,4 @@ We were tasked with evaluating four new investment options for inclusion in our 
 > - Sharpe Ratios
 > - and Betas
 
-![image.png](https://github.com/sfkonrad/M4_Challenge_Submission/blob/main/Rolling_Standard_Deviation_21-Day_Window_plot.png)
+![image.png](https://github.com/sfkonrad/M4_Challenge_Submission/blob/main/Rolling_Standard_Deviation_21-Day_Window_plot.jpg?raw=true)

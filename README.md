@@ -9,3 +9,5 @@ We were tasked with evaluating four new investment options for inclusion in our 
 > - Standard Deviations
 > - Sharpe Ratios
 > - and Betas
+
+![image.png](../60-Day_Rolling_Betas_BERKSHIRE_and_TIGER_line_plot.png)

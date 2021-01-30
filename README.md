@@ -10,4 +10,4 @@ We were tasked with evaluating four new investment options for inclusion in our 
 > - Sharpe Ratios
 > - and Betas
 
-![image.png](FinTech_Workspace/M4/M4_Challenge/M4_Challenge_Submission/60-Day_Rolling_Betas_BERKSHIRE_and_TIGER_line_plot.png) 
+![image.png](https://github.com/sfkonrad/M4_Challenge_Submission/blob/main/60-Day_Rolling_Betas_BERKSHIRE_and_TIGER_line_plot.png)
